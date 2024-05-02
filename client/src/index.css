@@ -1,0 +1,10 @@
+*{
+    background-color: #c2bdb5;
+}
+.main_container{
+    border: 1px solid black;
+    padding: 1%;
+}
+.header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
